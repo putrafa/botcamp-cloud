@@ -23,8 +23,8 @@ My goal is to learn and want to know more about cloud and other IT stuff and get
 
 ## Botcamp
 
-- [ ] ☁️  > [Day1](Journey/001/Readme.md)
-- [ ] ☁️  > [Day2](Journey/002/Readme.md)
-- [ ] ☁️  > [Day3](Journey/003/Readme.md)
-- [ ] ☁️  > [Day4](Journey/004/Readme.md)
-- [ ] ☁️  > [Day5](Journey/005/Readme.md)
+- [ ] ☁️  > [Day1](Journey/001/README.md)
+- [ ] ☁️  > [Day2](Journey/002/README.md)
+- [ ] ☁️  > [Day3](Journey/003/README.md)
+- [ ] ☁️  > [Day4](Journey/004/README.md)
+- [ ] ☁️  > [Day5](Journey/005/README.md)
