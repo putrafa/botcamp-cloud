@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="banner.png">
+</p>
+
+## The Challenge
+1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
+2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
+3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
+4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
+5. Update your main README to link back to your Day Journey article
+4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+
+## How to use this template:
+Fill in your details where you see this icon ✍️
+We have provided a sample Day Journey entry staring at 0. You can delete this example.
+
 ##  Sandhika Putra's Cloud Journey
 
 Hi, my name is Sandhika Putra, usually called Dhika. I live in the city of Blitar, East Java, Indonesia. I am a student from SMKN 1 Nglegok. I am a newbie in sysadmin and cloud computing.
@@ -9,15 +25,10 @@ My goal is to learn and want to know more about cloud and other IT stuff and get
 - [Link to my Twitter](https://twitter.com/SandhikaPutra13)
 - [Link to my LinkedIn](https://www.linkedin.com/in/putra-fa-b3bbb7246/)
 
-## Botcamp 
+## Botcamp
 
-- [ ] ☁️ 1 > [Day 1](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Day 2](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Day 3](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [Day 4](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Day 5](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Day 6](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [Day 7](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [Day 8](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [Day 9](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [Day 10](Journey/010/Readme.md)
+- [ ] ☁️ 1 > [Day1](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [Day2](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Day3](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Day4](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Day5](Journey/005/Readme.md)
