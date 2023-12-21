@@ -9,7 +9,7 @@ My goal is to learn and want to know more about cloud and other IT stuff and get
 - [Link to my Twitter](https://twitter.com/SandhikaPutra13)
 - [Link to my LinkedIn](https://www.linkedin.com/in/putra-fa-b3bbb7246/)
 
-## Botcamp
+## Bootcamp
 
 - [ ] ☁️  > [Day1](Journey/001/README.md)
 - [ ] ☁️  > [Day2](Journey/002/README.md)
